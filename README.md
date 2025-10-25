@@ -1,4 +1,4 @@
-# Food Game
+# Snake Game
 
 A Python turtle graphics project featuring a Food class that creates randomly positioned food items.
 
